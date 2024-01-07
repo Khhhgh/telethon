@@ -18,8 +18,8 @@ sudo_command = [6581896306]
 pm = "6581896306"
 mention = "1001132193"
 plugins = dict(root="plugins")
-app = Client(bot_user, api_id , api_hash ,in_memory=True,session_string = session,plugins=plugins)
-bot = Client(bot_user=bot_user , api_id=api_id , api_hash=api_hash ,bot_token=token,plugins=dict(root="plug_bot"))
+app = Client("user:r4dbbot", api_id , api_hash ,in_memory=True,session_string = session,plugins=plugins)
+bot = Client("r4dbbot", api_id=api_id , api_hash=api_hash ,bot_token=token,plugins=dict(root="plug_bot"))
 
 
 
