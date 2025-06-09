@@ -8,14 +8,14 @@ r = redis.Redis(
   password='y41sFD7N8cY5Ob2MGPZkGdrTndVFY92h')
   
   
-sudo_id = 6581896306
+sudo_id = 7173319089
 bot_user = Mody.BOT_USER
 api_id = Mody.APP_ID
 api_hash = Mody.API_HASH
 session = Mody.SESSION
 token = Mody.TG_BOT_TOKEN
-sudo_command = [6581896306]
-pm = "6581896306"
+sudo_command = [7173319089]
+pm = "7173319089"
 mention = "1001132193"
 plugins = dict(root="plugins")
 app = Client("user:r4dbbot", api_id , api_hash ,in_memory=True,session_string = session,plugins=plugins)
