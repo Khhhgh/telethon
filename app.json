@@ -12,23 +12,23 @@
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
-            "value": ""
+            "value": "7610698647:AAGc0vKL1iYTchSGJowB7FzlLWhwrPTg3V4"
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
-            "value": ""
+            "value": ""cf260fa60f76561cb6bf47a12241669b
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org",
-            "value": ""
+            "value": "22654154"
         },
         "BOT_USER": {
             "description": "Your Bot User Without @",
-            "value": ""            
+            "value": "Hgfghtddfvbot"            
         },
         "SESSION": {
             "description": "Your String Session Pyrogram V2",
-            "value": ""            
+            "value": "AgFZrMoAMWPSH82gV3HpUuoAgjwAFoEodrYCnQt7_Wjpl2FHP11XAvBY4mo4yi_fwrHhAU4eXCfee4-mCvBkWCKR4t5p5duxXmWcjZUaWMqZ9azD3rruOr8BhZJvgT2RFARDb3Gcr2jBRHTX3zQ6FznwwBYFroQp3xohaPFxp_0U-aXGOyza7-LCApbumc3U1h_gkmV1fosZszE5jPcw_Wdu6jrv_I7WN9PnkTz-dxJjkSJhrv6vJKslRN93zzgjWBzobYB3-QzXjffKAxLIRIGuJCr91znlx5wIl2wYGZ7npVlGvL-79ZWqdIpOvH_IPEZtT8nIIIiNu4-T4vGitvzmr6aPlwAAAAGrkCmxAA"            
 	   }
 	},
 	"buildpacks": [
