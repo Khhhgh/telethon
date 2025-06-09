@@ -16,7 +16,7 @@
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
-            "value": ""cf260fa60f76561cb6bf47a12241669b
+            "value": "cf260fa60f76561cb6bf47a12241669b"
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org",
